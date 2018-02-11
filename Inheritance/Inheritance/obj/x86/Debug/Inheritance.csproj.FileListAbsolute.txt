@@ -1,0 +1,16 @@
+/Users/gerard/Teaching/2017-18/CI253/Week_13/Inheritance/Inheritance/obj/x86/Debug/Inheritance.csproj.CoreCompileInputs.cache
+/Users/gerard/Teaching/2017-18/CI253/Week_13/Inheritance/Inheritance/bin/Debug/Inheritance.exe
+/Users/gerard/Teaching/2017-18/CI253/Week_13/Inheritance/Inheritance/bin/Debug/Inheritance.pdb
+/Users/gerard/Teaching/2017-18/CI253/Week_13/Inheritance/Inheritance/obj/x86/Debug/Inheritance.exe
+/Users/gerard/Teaching/2017-18/CI253/Week_13/Inheritance/Inheritance/obj/x86/Debug/Inheritance.pdb
+C:\Users\rg425\Downloads\Inheritance\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\rg425\Downloads\Inheritance\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\rg425\Downloads\Inheritance\Inheritance\Inheritance\obj\x86\Debug\Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\rg425\Downloads\Inheritance\Inheritance\Inheritance\obj\x86\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\rg425\Downloads\Inheritance\Inheritance\Inheritance\obj\x86\Debug\Inheritance.exe
+C:\Users\rg425\Downloads\Inheritance\Inheritance\Inheritance\obj\x86\Debug\Inheritance.pdb
+G:\OOD\FireTruck\Inheritance\Inheritance\obj\x86\Debug\Inheritance.exe
+G:\OOD\FireTruck\Inheritance\Inheritance\obj\x86\Debug\Inheritance.pdb
+G:\OOD\FireTruck\Inheritance\Inheritance\obj\x86\Debug\Inheritance.csprojResolveAssemblyReference.cache
+G:\OOD\FireTruck\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+G:\OOD\FireTruck\Inheritance\Inheritance\bin\Debug\Inheritance.pdb

@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{C0FFB536-FECD-4882-94BB-8A2A9EEBE5C0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Inheritance/FirefighterBase.cs">
+    <Files>
+      <File FileName="Inheritance/FireChief.cs" Line="1" Column="1" />
+      <File FileName="Inheritance/Firefighter.cs" Line="8" Column="25" />
+      <File FileName="Inheritance/Firetruck.cs" Line="1" Column="1" />
+      <File FileName="Inheritance/Hose.cs" Line="1" Column="1" />
+      <File FileName="Inheritance/Ladder.cs" Line="1" Column="1" />
+      <File FileName="Inheritance/Program.cs" Line="13" Column="1" />
+      <File FileName="Inheritance/FirefighterBase.cs" Line="7" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Inheritance PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
